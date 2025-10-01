@@ -61,7 +61,7 @@ This report builds on prior LLM-generated insights and synthetic interviews to p
 ---
 
 ## 8. Next Steps & Validation  
-- Collect 2025 season data.  
+- Collect remaining 2025 season data.  
 - Run bootstrap simulations to quantify uncertainty.  
 - Stress-test recommendations with sensitivity analyses.  
 - Validate training adjustments through controlled scrimmages.  
